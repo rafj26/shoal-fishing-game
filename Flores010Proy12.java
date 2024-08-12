@@ -94,22 +94,6 @@ public class Flores010Proy12 implements ActionListener {
         lbl_pres4.setBounds(120, 255, 210, 20);
         ventana.add(lbl_pres4);
 
-        lbl_pres5 = new JLabel("Prof: Ricardo Chan");
-        lbl_pres5.setBounds(133, 310, 200, 20);
-        ventana.add(lbl_pres5);
-
-        lbl_pres6 = new JLabel("Rolando Flores");
-        lbl_pres6.setBounds(142, 365, 100, 20);
-        ventana.add(lbl_pres6);
-
-        lbl_pres7 = new JLabel("8-948-2010");
-        lbl_pres7.setBounds(152, 380, 100, 20);
-        ventana.add(lbl_pres7);
-
-        lbl_pres8 = new JLabel("1GS222");
-        lbl_pres8.setBounds(158, 435, 90, 20);
-        ventana.add(lbl_pres8);
-
         lbl_pres9 = new JLabel("02 de Junio 2024");
         lbl_pres9.setBounds(135, 480, 110, 20);
         ventana.add(lbl_pres9);
